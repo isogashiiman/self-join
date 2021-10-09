@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* 
+## Try to understand self association + sandbox experience ##
+
+```
+rails db:migrate
+rails db:seed
+```
